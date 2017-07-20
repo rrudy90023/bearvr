@@ -8,7 +8,7 @@ import Modelpath from '../assets/images/polarbear-obj.obj'
 
 let swipeDirection;
 let animation;
-let socket = io.connect('http://bearvr.herokuapp.com/')
+let socket = io.connect('https://bearvr.herokuapp.com/')
 
 export default class Fixed extends Component {
 
@@ -110,7 +110,7 @@ export default class Fixed extends Component {
 
 
 	render(){
-		console.log("Fixed")
+		//console.log("Fixed")
 		return (
 
             <a-scene vr-mode-ui="enabled: true" onClick={this.changeColor.bind(this)}>

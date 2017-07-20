@@ -6,7 +6,7 @@ import Orbit from 'aframe-orbit-controls-component-2'
 import io from 'socket.io-client';
 import Modelpath from '../assets/images/polarbear-obj.obj'
 
-let socket = io.connect('http://bearvr.herokuapp.com/')
+let socket = io.connect('https://bearvr.herokuapp.com/')
 let swipeDirection;
 let animation;
 
