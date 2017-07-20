@@ -1,0 +1,25 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	display: block;
+	color: red;
+}
+
+a:visited, a:link, a:active {
+	color: red;
+}
+
+a:hover {
+	color: black;
+}
+
+.container {
+	margin: 0 auto;
+	font-size:20px;
+	width: 70%; 
+	position: relative; 
+	text-align: center;
+}
+
