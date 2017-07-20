@@ -89,5 +89,4 @@ If you're unfamiliar with Heroku deployment (or just need a refresher), they hav
 
 ### REDUX STARTER
 If you're looking for a similar, minimalistic Redux starter, I would recommend Marc Garreau's [here](https://github.com/marcgarreau/redux-starter)
-# labyrinth
-# labyrinth
+
