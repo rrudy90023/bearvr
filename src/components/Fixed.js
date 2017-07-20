@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom'
 import Leap from 'leapjs'
 import AFRAME from 'aframe'
-import Orbit from 'aframe-orbit-controls-component'
+import Orbit from 'aframe-orbit-controls-component-2'
 import io from 'socket.io-client';
 import Modelpath from '../assets/images/polarbear-obj.obj'
 
